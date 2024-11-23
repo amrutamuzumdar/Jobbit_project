@@ -3,18 +3,6 @@ Jobbit is a website used for connecting talented individuals with their dream jo
 
 The website is currently in progress and is created with dummy data using html, css, bootstrap and jquery.
 
-### Features to be added:
-1. Login/register
-2. Search api
-3. Posting Job api
-4. Apply to Job api
-5. Profile page and edit options
-6. Admin page - create company profile
-
-
-
-
-
 
 ## How to Run
 
