@@ -131,18 +131,7 @@ function Header() {
                                 </Link>
                             </li>
                         )}
-                        <li className="nav-item">
-                            <Link
-                                className={`nav-link ${
-                                    location.pathname === "/contact"
-                                        ? "active"
-                                        : ""
-                                }`}
-                                to="/contact"
-                            >
-                                Contact
-                            </Link>
-                        </li>
+                        
                     </ul>
                     {isLoggedIn ? (
                         <div className="dropdown">

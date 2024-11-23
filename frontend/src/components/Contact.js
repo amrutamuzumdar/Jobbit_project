@@ -56,7 +56,7 @@ function Contact() {
                     <h1 className="text-center mt-5">Email</h1>
                     <p className="text-center">
                         <a href="mailto:vakulabharanam.s@northeastern.edu">
-                            vakulabharanam.s@northeastern.edu
+                            muzumdar.a@northeastern.edu
                         </a>
                     </p>
                     <br />
